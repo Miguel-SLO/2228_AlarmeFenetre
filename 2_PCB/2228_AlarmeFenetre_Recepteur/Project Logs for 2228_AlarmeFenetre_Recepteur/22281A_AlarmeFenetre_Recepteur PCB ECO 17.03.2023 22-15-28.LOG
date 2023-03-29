@@ -1,0 +1,294 @@
+Added Component: Designator=C1(CAP_0805)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7µF"; VariantName = "[No Variations]"
+Added Component: Designator=C2(CAP_0805)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "6.8µF"; VariantName = "[No Variations]"
+Added Component: Designator=C3(CAP_0805)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22pF"; VariantName = "[No Variations]"
+Added Component: Designator=C4(CAP_0805)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22pF"; VariantName = "[No Variations]"
+Added Component: Designator=C5(CAP_0805)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C6(CAP_0805)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C7(CAP_0805)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C8(CAP_0805)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10µF"; VariantName = "[No Variations]"
+Added Component: Designator=Q1(LFXTAL003151)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "LFXTAL003151REEL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/lfxtal003151reel/iqd-frequency-products?region=europe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.iqdfrequencyproducts.com/products/pn/LFXTAL003151Reel.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "4.3mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "IQD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "LFXTAL003151REEL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "449-LFXTAL003151REEL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/IQD/LFXTAL003151Reel?qs=e4%2FAndAAwgKt40cosvhepA%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R1(RES_0805)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "5.1k"; VariantName = "[No Variations]"
+Added Component: Designator=R2(RES_0805)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "5.1k"; VariantName = "[No Variations]"
+Added Component: Designator=R3(RES_0805)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Added Component: Designator=R4(RES_0805)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1M"; VariantName = "[No Variations]"
+Added Component: Designator=R5(RES_0805)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R6(RES_0805)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Added Component: Designator=R7(RES_0805)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R8(RES_0805)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=S1(430182043816)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/4301x2.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wuerth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NoPins"; Value = "04"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "430182043816"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "430182043816"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found SOP65P638X110-17N
+Added Component: Designator=U2(SSOP28_MC_MCH-M)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "PIC32MX130F064B-I/SS"; VariantName = "[No Variations]"
+Added Component: Designator=U3(NRF52840_DONGLE)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Nordic Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Number"; Value = "NRF52840-DONGLE"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found CUI_UJC-HP-3-SMT-TR
+Added Component: Designator=X2(HEADER_6PINS)
+Added Component: Designator=X3(2x2_HEADER)
+Added Component: Designator=X4(2x2_HEADER)
+Added Component: Designator=X5(HEADER_14PINS)
+Added Component: Designator=X6(HEADER_14PINS)
+Added Component: Designator=X7(MIKROBUS HOST CONN. TH)
+Added Component: Designator=X8(MIKROBUS HOST CONN. TH)
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=VBUS Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=3V3 Pin=C2-2
+Added Pin To Net: NetName=OSC1 Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=OSC2 Pin=C4-2
+Added Pin To Net: NetName=PBTN Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=3V3 Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=3V3 Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=VCAP Pin=C8-1
+Added Pin To Net: NetName=GND Pin=C8-2
+Added Pin To Net: NetName=OSC1 Pin=Q1-1
+Added Pin To Net: NetName=OSC2 Pin=Q1-2
+Added Pin To Net: NetName=GND Pin=R1-1
+Added Pin To Net: NetName=CC2 Pin=R1-2
+Added Pin To Net: NetName=GND Pin=R2-1
+Added Pin To Net: NetName=CC1 Pin=R2-2
+Added Pin To Net: NetName=NetR1_1 Pin=R3-1
+Added Pin To Net: NetName=3V3 Pin=R3-2
+Added Pin To Net: NetName=OSC2 Pin=R4-1
+Added Pin To Net: NetName=OSC1 Pin=R4-2
+Added Pin To Net: NetName=PBTN Pin=R5-1
+Added Pin To Net: NetName=3V3 Pin=R5-2
+Added Pin To Net: NetName=MCLR Pin=R6-1
+Added Pin To Net: NetName=PBTN Pin=R6-2
+Added Pin To Net: NetName=SCL1 Pin=R7-1
+Added Pin To Net: NetName=3V3 Pin=R7-2
+Added Pin To Net: NetName=SDA1 Pin=R8-1
+Added Pin To Net: NetName=3V3 Pin=R8-2
+Added Pin To Net: NetName=GND Pin=S1-1
+Added Pin To Net: NetName=PBTN Pin=S1-2
+Added Pin To Net: NetName=GND Pin=S1-3
+Added Pin To Net: NetName=PBTN Pin=S1-4
+Add Pin To Net: Unknown Pin: Pin U1-0
+Add Pin To Net: Unknown Pin: Pin U1-2
+Add Pin To Net: Unknown Pin: Pin U1-3
+Add Pin To Net: Unknown Pin: Pin U1-4
+Add Pin To Net: Unknown Pin: Pin U1-5
+Add Pin To Net: Unknown Pin: Pin U1-6
+Add Pin To Net: Unknown Pin: Pin U1-7
+Add Pin To Net: Unknown Pin: Pin U1-10
+Add Pin To Net: Unknown Pin: Pin U1-11
+Add Pin To Net: Unknown Pin: Pin U1-12
+Add Pin To Net: Unknown Pin: Pin U1-13
+Add Pin To Net: Unknown Pin: Pin U1-14
+Add Pin To Net: Unknown Pin: Pin U1-15
+Added Pin To Net: NetName=MCLR Pin=U2-1
+Added Pin To Net: NetName=PWM1 Pin=U2-2
+Added Pin To Net: NetName=PWM2 Pin=U2-3
+Added Pin To Net: NetName=PGED1 Pin=U2-4
+Added Pin To Net: NetName=PGEC1 Pin=U2-5
+Added Pin To Net: NetName=RX1 Pin=U2-6
+Added Pin To Net: NetName=TX1 Pin=U2-7
+Added Pin To Net: NetName=GND Pin=U2-8
+Added Pin To Net: NetName=OSC1 Pin=U2-9
+Added Pin To Net: NetName=OSC2 Pin=U2-10
+Added Pin To Net: NetName=CS1 Pin=U2-11
+Added Pin To Net: NetName=CS2 Pin=U2-12
+Added Pin To Net: NetName=3V3 Pin=U2-13
+Added Pin To Net: NetName=SDI1 Pin=U2-14
+Added Pin To Net: NetName=SDO1 Pin=U2-15
+Added Pin To Net: NetName=RST1 Pin=U2-16
+Added Pin To Net: NetName=SCL1 Pin=U2-17
+Added Pin To Net: NetName=SDA1 Pin=U2-18
+Added Pin To Net: NetName=GND Pin=U2-19
+Added Pin To Net: NetName=VCAP Pin=U2-20
+Added Pin To Net: NetName=TX2 Pin=U2-21
+Added Pin To Net: NetName=RX2 Pin=U2-22
+Added Pin To Net: NetName=INT1 Pin=U2-23
+Added Pin To Net: NetName=RST2 Pin=U2-24
+Added Pin To Net: NetName=SCK1 Pin=U2-25
+Added Pin To Net: NetName=INT2 Pin=U2-26
+Added Pin To Net: NetName=GND Pin=U2-27
+Added Pin To Net: NetName=3V3 Pin=U2-28
+Added Pin To Net: NetName=RX1 Pin=U3-1
+Added Pin To Net: NetName=TX1 Pin=U3-2
+Added Pin To Net: NetName=GND Pin=U3-10
+Added Pin To Net: NetName=GND Pin=U3-11
+Added Pin To Net: NetName=GND Pin=U3-18
+Added Pin To Net: NetName=3V3 Pin=U3-19
+Add Pin To Net: Unknown Pin: Pin X1-A5
+Add Pin To Net: Unknown Pin: Pin X1-A9
+Add Pin To Net: Unknown Pin: Pin X1-A12
+Add Pin To Net: Unknown Pin: Pin X1-B5
+Add Pin To Net: Unknown Pin: Pin X1-B9
+Add Pin To Net: Unknown Pin: Pin X1-B12
+Add Pin To Net: Unknown Pin: Pin X1-S1
+Add Pin To Net: Unknown Pin: Pin X1-S2
+Add Pin To Net: Unknown Pin: Pin X1-S3
+Add Pin To Net: Unknown Pin: Pin X1-S4
+Added Pin To Net: NetName=MCLR Pin=X2-1
+Added Pin To Net: NetName=3V3 Pin=X2-2
+Added Pin To Net: NetName=GND Pin=X2-3
+Added Pin To Net: NetName=PGEC1 Pin=X2-4
+Added Pin To Net: NetName=PGED1 Pin=X2-5
+Added Pin To Net: NetName=TX2 Pin=X3-1
+Added Pin To Net: NetName=TX2A Pin=X3-2
+Added Pin To Net: NetName=RX2 Pin=X3-3
+Added Pin To Net: NetName=RX2A Pin=X3-4
+Added Pin To Net: NetName=TX2 Pin=X4-1
+Added Pin To Net: NetName=TX2B Pin=X4-2
+Added Pin To Net: NetName=RX2 Pin=X4-3
+Added Pin To Net: NetName=RX2B Pin=X4-4
+Added Pin To Net: NetName=MCLR Pin=X5-1
+Added Pin To Net: NetName=PWM1 Pin=X5-2
+Added Pin To Net: NetName=PWM2 Pin=X5-3
+Added Pin To Net: NetName=PGED1 Pin=X5-4
+Added Pin To Net: NetName=PGEC1 Pin=X5-5
+Added Pin To Net: NetName=RX1 Pin=X5-6
+Added Pin To Net: NetName=TX1 Pin=X5-7
+Added Pin To Net: NetName=GND Pin=X5-8
+Added Pin To Net: NetName=OSC1 Pin=X5-9
+Added Pin To Net: NetName=OSC2 Pin=X5-10
+Added Pin To Net: NetName=CS1 Pin=X5-11
+Added Pin To Net: NetName=CS2 Pin=X5-12
+Added Pin To Net: NetName=3V3 Pin=X5-13
+Added Pin To Net: NetName=SDI1 Pin=X5-14
+Added Pin To Net: NetName=3V3 Pin=X6-1
+Added Pin To Net: NetName=GND Pin=X6-2
+Added Pin To Net: NetName=INT2 Pin=X6-3
+Added Pin To Net: NetName=SCK1 Pin=X6-4
+Added Pin To Net: NetName=RST2 Pin=X6-5
+Added Pin To Net: NetName=INT1 Pin=X6-6
+Added Pin To Net: NetName=RX2 Pin=X6-7
+Added Pin To Net: NetName=TX2 Pin=X6-8
+Added Pin To Net: NetName=VCAP Pin=X6-9
+Added Pin To Net: NetName=GND Pin=X6-10
+Added Pin To Net: NetName=SDA1 Pin=X6-11
+Added Pin To Net: NetName=SCL1 Pin=X6-12
+Added Pin To Net: NetName=RST1 Pin=X6-13
+Added Pin To Net: NetName=SDO1 Pin=X6-14
+Added Pin To Net: NetName=RST1 Pin=X7-2
+Added Pin To Net: NetName=CS1 Pin=X7-3
+Added Pin To Net: NetName=SCK1 Pin=X7-4
+Added Pin To Net: NetName=SDI1 Pin=X7-5
+Added Pin To Net: NetName=SDO1 Pin=X7-6
+Added Pin To Net: NetName=3V3 Pin=X7-7
+Added Pin To Net: NetName=GND Pin=X7-8
+Added Pin To Net: NetName=GND Pin=X7-9
+Added Pin To Net: NetName=SDA1 Pin=X7-11
+Added Pin To Net: NetName=SCL1 Pin=X7-12
+Added Pin To Net: NetName=RX2A Pin=X7-13
+Added Pin To Net: NetName=TX2A Pin=X7-14
+Added Pin To Net: NetName=INT1 Pin=X7-15
+Added Pin To Net: NetName=PWM1 Pin=X7-16
+Added Pin To Net: NetName=RST2 Pin=X8-2
+Added Pin To Net: NetName=CS2 Pin=X8-3
+Added Pin To Net: NetName=SCK1 Pin=X8-4
+Added Pin To Net: NetName=SDI1 Pin=X8-5
+Added Pin To Net: NetName=SDO1 Pin=X8-6
+Added Pin To Net: NetName=3V3 Pin=X8-7
+Added Pin To Net: NetName=GND Pin=X8-8
+Added Pin To Net: NetName=GND Pin=X8-9
+Added Pin To Net: NetName=SDA1 Pin=X8-11
+Added Pin To Net: NetName=SCL1 Pin=X8-12
+Added Pin To Net: NetName=RX2B Pin=X8-13
+Added Pin To Net: NetName=TX2B Pin=X8-14
+Added Pin To Net: NetName=INT2 Pin=X8-15
+Added Pin To Net: NetName=PWM2 Pin=X8-16
+Change Net Name : Old Net Name=NetR1_1 New Net Name=RST
+Added Member To Class: ClassName=2228_Recepteur_Alimentation Member=Component C1 CAP_SMD
+Added Member To Class: ClassName=2228_Recepteur_Alimentation Member=Component C2 CAP_SMD
+Added Member To Class: ClassName=2228_Recepteur_PIC32 Member=Component C3 CAP_SMD
+Added Member To Class: ClassName=2228_Recepteur_PIC32 Member=Component C4 CAP_SMD
+Added Member To Class: ClassName=2228_Recepteur_PIC32 Member=Component C5 CAP_SMD
+Added Member To Class: ClassName=2228_Recepteur_PIC32 Member=Component C6 CAP_SMD
+Added Member To Class: ClassName=2228_Recepteur_PIC32 Member=Component C7 CAP_SMD
+Added Member To Class: ClassName=2228_Recepteur_PIC32 Member=Component C8 CAP_SMD
+Added Member To Class: ClassName=2228_Recepteur_PIC32 Member=Component Q1 8 MHz
+Added Member To Class: ClassName=2228_Recepteur_Alimentation Member=Component R1 RES_SMD
+Added Member To Class: ClassName=2228_Recepteur_Alimentation Member=Component R2 RES_SMD
+Added Member To Class: ClassName=2228_Recepteur_Alimentation Member=Component R3 RES_SMD
+Added Member To Class: ClassName=2228_Recepteur_PIC32 Member=Component R4 RES_SMD
+Added Member To Class: ClassName=2228_Recepteur_PIC32 Member=Component R5 RES_SMD
+Added Member To Class: ClassName=2228_Recepteur_PIC32 Member=Component R6 RES_SMD
+Added Member To Class: ClassName=2228_Recepteur_PIC32 Member=Component R7 RES_SMD
+Added Member To Class: ClassName=2228_Recepteur_PIC32 Member=Component R8 RES_SMD
+Added Member To Class: ClassName=2228_Recepteur_PIC32 Member=Component S1 430182043816
+Add Class Member: Failed to add class member : Component U1 MAX1793EUE33+
+Added Member To Class: ClassName=2228_Recepteur_PIC32 Member=Component U2 PIC32MX130F064B-I/SS
+Added Member To Class: ClassName=2228_Recepteur_MIKROE_NRF Member=Component U3 NRF52840-DONGLE
+Add Class Member: Failed to add class member : Component X1 UJC-HP-3-SMT-TR
+Added Member To Class: ClassName=2228_Recepteur_PIC32 Member=Component X2 6 pins Header
+Added Member To Class: ClassName=2228_Recepteur_PIC32 Member=Component X3 2X2PIN_HEADER
+Added Member To Class: ClassName=2228_Recepteur_PIC32 Member=Component X4 2X2PIN_HEADER
+Added Member To Class: ClassName=2228_Recepteur_PIC32 Member=Component X5 14PIN_HEADER
+Added Member To Class: ClassName=2228_Recepteur_PIC32 Member=Component X6 14PIN_HEADER
+Added Member To Class: ClassName=2228_Recepteur_MIKROE_NRF Member=Component X7 MIKROBUS HOST CONN TH 16
+Added Member To Class: ClassName=2228_Recepteur_MIKROE_NRF Member=Component X8 MIKROBUS HOST CONN TH 16
+Added Room: Name=2228_Recepteur_Alimentation
+Added Room: Name=2228_Recepteur_MIKROE_NRF
+Added Room: Name=2228_Recepteur_PIC32

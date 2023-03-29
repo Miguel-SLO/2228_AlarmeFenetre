@@ -1,0 +1,13 @@
+Added Component: Designator=B2(AAA-2468)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Battery; 2 Leads"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "BAT-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "24-Mar-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VPRI Pin=B2-1
+Added Pin To Net: NetName=GND Pin=B2-2
+Added Member To Class: ClassName=2228_Emetteur_Alimentation Member=Component B2 2x AAA
+Added Member To Class: ClassName=2228_Emetteur_Alimentation Member=Component X2 2X2PIN_HEADER
+Added Member To Class: ClassName=2228_Emetteur_Alimentation Member=Component X3 2X2PIN_HEADER
+Added Member To Class: ClassName=2228_Emetteur_Alimentation Member=Component X4 2X2PIN_HEADER
