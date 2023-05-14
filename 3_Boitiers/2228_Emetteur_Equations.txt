@@ -15,7 +15,7 @@
 "Col_Height"= 2.5mm
 "Box_Bottom_Thick"= 3mm
 "Box_Top_Thick"= 3mm
-"PCB_Components_Height"= 22mm
+"PCB_Components_Height"= 25mm
 "Global_Gap"= 0.1mm
 "Col_Diameter"= 7.8mm
 "D1@Esquisse1"="PCB_Zone_X"+2 * "Box_Wall_Thickness"
@@ -55,7 +55,7 @@
 "D1@Boss.-Extru.2"="Box_Wall_Thickness"
 "D1@Esquisse11"="Inserts_Diameter"
 "D1@Enlèv. mat.-Extru.1"="Inserts_Height"
-"D1@Esquisse12"="Box_Wall_Thickness"+"PCB_Zone_Y"/2 - "Col_Diameter"
+"D1@Esquisse12"="Box_Wall_Thickness"+"PCB_Zone_Y"/1.5 - "Col_Diameter"
 "D2@Esquisse12"=("PCB_Zone_Y"+"Battery_Zone_Y")/2
 "D3@Esquisse10"="Box_Wall_Thickness"+"PCB_Zone_Y" + "Battery_Offset"
 "D1@Esquisse10"="Battery_Width_X" + "Box_Wall_Thickness"
