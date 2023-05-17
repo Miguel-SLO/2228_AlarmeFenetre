@@ -1,0 +1,4 @@
+[manifest]
+path = 2228_Emetteur_Zigbee
+file = west.yml
+
