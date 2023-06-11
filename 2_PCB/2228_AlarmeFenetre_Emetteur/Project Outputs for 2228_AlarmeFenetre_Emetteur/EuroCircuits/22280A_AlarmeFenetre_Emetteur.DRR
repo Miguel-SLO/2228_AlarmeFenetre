@@ -1,0 +1,19 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: 22280A_AlarmeFenetre_Emetteur.PcbDoc   11.06.2023  15:02:58
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : 22280A_AlarmeFenetre_Emetteur.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.25mm (10mil)                                            Round             47        PTH        454.04mm (17.88inch)
+T2      0.8mm (31mil)                                             Round             2         PTH        3.50mm (0.14inch)
+T3      1.1mm (43mil)                                             Round             22        PTH        104.70mm (4.12inch)
+T4      1.25mm (49mil)                                            Round             16        PTH        71.12mm (2.80inch)
+T5      1.3mm (51mil)                                             Round             2         PTH        2.54mm (0.10inch)
+T6      3.2mm (126mil)                                            Round             4         NPTH       156.00mm (6.14inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              93
+
+Total Processing Time (hh:mm:ss) : 00:00:00

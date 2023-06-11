@@ -33,7 +33,7 @@ FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=1
 IsVirtualBomDocumentRemoved=0
-OutputPath=
+OutputPath=Project Outputs for 2228_AlarmeFenetre_Emetteur
 LogFolderPath=
 ManagedProjectGUID=
 Template=K:\ES\APPLICATIONS\APPSLO\ALTIUM\ES_Templates\ES_Proj_6C_2L\ES_Proj_6C_2L_2019.PrjPCB
@@ -123,23 +123,6 @@ GenerateClassCluster=0
 DocumentUniqueId=UACBRLVJ
 
 [Document5]
-DocumentPath=2228_AlarmeFenetre_Emetteur.OutJob
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document6]
 DocumentPath=2228_Emetteur_Alimentation.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -156,7 +139,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XALKHPNV
 
-[Document7]
+[Document6]
 DocumentPath=2228_Emetteur_Systeme.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -173,7 +156,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TFVYGQFB
 
-[Document8]
+[Document7]
 DocumentPath=2228_AlarmeFenetre_Emetteur.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -190,25 +173,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document9]
-DocumentPath=CAMtastic1.Cam
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document10]
-DocumentPath=Export_Saphir\Template\Saphir_OutJob.OutJob
+[Document8]
+DocumentPath=Project Outputs for 2228_AlarmeFenetre_Emetteur\EuroCircuits\CAMtastic1.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -225,7 +191,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for 2228_AlarmeFenetre_Emetteur\Design Rule Check - 2228_AlarmeFenetre_Emetteur.html
+DocumentPath=Project Outputs for 2228_AlarmeFenetre_Emetteur\Reports\Bill of Materials.xlsx
 DItemRevisionGUID=
 
 [GeneratedDocument2]
@@ -233,15 +199,15 @@ DocumentPath=Project Outputs for 2228_AlarmeFenetre_Emetteur\Design Rule Check -
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Export_Saphir\Saphir_Export\Saphir_Digi-Key-2228_AlarmeFenetre_Emetteur.csv
+DocumentPath=Project Outputs for 2228_AlarmeFenetre_Emetteur\Reports\Design Rules Check.html
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Export_Saphir\Saphir_Export\Saphir_Mouser-2228_AlarmeFenetre_Emetteur.xlsx
+DocumentPath=Project Outputs for 2228_AlarmeFenetre_Emetteur\Reports\Electrical Rules Check.html
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Export_Saphir\Saphir_Export\Saphir_Others-2228_AlarmeFenetre_Emetteur.xlsx
+DocumentPath=Project Outputs for 2228_AlarmeFenetre_Emetteur\Reports\Footprint Comparison Report.html
 DItemRevisionGUID=
 
 [Configuration1]
@@ -313,7 +279,7 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=-1
 
 [Generic_EDE]
-OutputDir=
+OutputDir=Project Outputs for 2228_AlarmeFenetre_Emetteur
 
 [OutputGroup1]
 Name=Netlist Outputs

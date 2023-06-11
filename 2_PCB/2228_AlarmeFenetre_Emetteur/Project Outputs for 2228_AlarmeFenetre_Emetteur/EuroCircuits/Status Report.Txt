@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [22280A_AlarmeFenetre_Emetteur.PcbDoc]
+   Generated File[22280A_AlarmeFenetre_Emetteur.TXT]
+   Generated File[22280A_AlarmeFenetre_Emetteur.LDP]
+   Generated File[22280A_AlarmeFenetre_Emetteur.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 15:02:58 On 11.06.2023
