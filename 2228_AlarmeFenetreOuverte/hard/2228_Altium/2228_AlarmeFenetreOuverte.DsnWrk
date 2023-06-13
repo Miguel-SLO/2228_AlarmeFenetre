@@ -2,3 +2,5 @@
 Version=1.0
 [Project1]
 ProjectPath=2228_AlarmeFenetre_Emetteur\2228_AlarmeFenetre_Emetteur.PrjPcb
+[Project2]
+ProjectPath=2228_AlarmeFenetre_Recepteur\2228_AlarmeFenetre_Recepteur.PrjPcb
