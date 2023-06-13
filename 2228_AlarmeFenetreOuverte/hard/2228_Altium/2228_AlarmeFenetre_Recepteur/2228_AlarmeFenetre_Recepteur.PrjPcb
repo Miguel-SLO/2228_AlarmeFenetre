@@ -33,7 +33,7 @@ FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=1
 IsVirtualBomDocumentRemoved=0
-OutputPath=Project Outputs for 2228_AlarmeFenetre_Recepteur
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 Template=K:\ES\APPLICATIONS\APPSLO\ALTIUM\ES_Templates\ES_Proj_6C_2L\ES_Proj_6C_2L_2019.PrjPCB
@@ -185,10 +185,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[GeneratedDocument1]
-DocumentPath=Project Outputs for 2228_AlarmeFenetre_Recepteur\Design Rule Check - 22281A_AlarmeFenetre_Recepteur.html
-DItemRevisionGUID=
-
 [Configuration1]
 Name=Sources
 ParameterCount=0
@@ -238,7 +234,7 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=-1
 
 [Generic_EDE]
-OutputDir=Project Outputs for 2228_AlarmeFenetre_Recepteur
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -349,7 +345,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=\\prt00001\ETML-SEB-Print
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
