@@ -5,4 +5,6 @@ date          : 16 juin 2023
 explicatif du projet:
 ---------------------
 
-A COMPLETER 
+L’objectif de ce projet est la réalisation d’un dispositif permettant
+de détecter si une fenêtre est restée ouverte à certaines heures dans
+une salle de l’ETML-ES. Le cas échéant, une alerte sera envoyée par e-mail.
