@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 03:23:17 On 16.06.2023
+
+Output: PCB 3D Print
+Type  : PCB 3D Print
+From  : Variant [[No Variations]] of PCB Document [22281A_AlarmeFenetre_Recepteur.PcbDoc]
+   Generated File[22281A_AlarmeFenetre_Recepteur.png]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 03:23:18 On 16.06.2023

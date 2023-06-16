@@ -17,7 +17,7 @@ RevisionNamingSchemeGUID=
 [OutputGroup1]
 Name=2228_Recepteur_OutJobs.OutJob
 Description=
-TargetOutputMedium=EuroCircuits
+TargetOutputMedium=Export
 VariantName=[No Variations]
 VariantScope=1
 CurrentConfigurationName=
@@ -44,7 +44,7 @@ OutputName1=Gerber X2 Files
 OutputCategory1=Fabrication
 OutputDocumentPath1=
 OutputVariantName1=
-OutputEnabled1=1
+OutputEnabled1=0
 OutputEnabled1_OutputMedium1=0
 OutputEnabled1_OutputMedium2=0
 OutputEnabled1_OutputMedium3=0
@@ -60,7 +60,7 @@ OutputName2=NC Drill Files
 OutputCategory2=Fabrication
 OutputDocumentPath2=
 OutputVariantName2=
-OutputEnabled2=1
+OutputEnabled2=0
 OutputEnabled2_OutputMedium1=0
 OutputEnabled2_OutputMedium2=0
 OutputEnabled2_OutputMedium3=0
@@ -347,9 +347,9 @@ OutputName16=PCB 3D Print
 OutputCategory16=Documentation
 OutputDocumentPath16=
 OutputVariantName16=
-OutputEnabled16=0
+OutputEnabled16=1
 OutputEnabled16_OutputMedium1=0
-OutputEnabled16_OutputMedium2=0
+OutputEnabled16_OutputMedium2=1
 OutputEnabled16_OutputMedium3=0
 OutputEnabled16_OutputMedium4=0
 OutputEnabled16_OutputMedium5=0
@@ -358,7 +358,7 @@ OutputEnabled16_OutputMedium7=0
 OutputDefault16=0
 PageOptions16=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=2.80|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 Configuration16_Name1=OutputConfigurationParameter1
-Configuration16_Item1=Record=Pcb3DPrintView|ResX=150|ResY=150|ViewX=40482680|ViewY=22709172|LookAtX=37022968|LookAtY=26947488|LookAtZ=-50000.29296875|UpX=0.288934856653214|UpY=0.437295794486999|UpZ=-0.851639032363892|FOV=45|QuatX=-0.375068008899689|QuatY=0.375068068504334|QuatZ=-0.375068098306656|QuatW=0.760244607925415|Zoom=3.91031439487689E-5|UnitsPercent=True|UnitsDPI=True|LockResAspect=True|ViewConfigType=.config_3d|CustomCamera=True|ViewFromTop=True|ViewConfig=
+Configuration16_Item1=Record=Pcb3DPrintView|ResX=600|ResY=600|ViewX=84102688|ViewY=53905932|LookAtX=112109656|LookAtY=116708304|LookAtZ=640928|UpX=0.424438297748566|UpY=0.532025992870331|UpZ=-0.732666969299316|FOV=45|QuatX=-0.36674776673317|QuatY=0.16117987036705|QuatZ=-0.315409272909164|QuatW=0.860252380371094|Zoom=1.6955462876057E-5|UnitsPercent=True|UnitsDPI=True|LockResAspect=True|ViewConfigType=.config_3d|CustomCamera=True|ViewFromTop=True|ScreenWidth=1426|ScreenHeight=914|ImageOutputType=1|ViewConfig= |DocumentPath=C:\Users\migsantos\MIGSAN_GIT\2228_AlarmeFenetre\2228_AlarmeFenetreOuverte\hard\2228_Altium\2228_AlarmeFenetre_Recepteur\22281A_AlarmeFenetre_Recepteur.PcbDoc
 OutputType17=Assembly
 OutputName17=Assembly Drawings
 OutputCategory17=Assembly
@@ -424,7 +424,7 @@ Configuration18_Name7=VisibleOrder_Flat
 Configuration18_Item7=Line #=100|Comment=100|Description=100|Designator=100|Revision ID=100|Revision State=100|Revision Status=100|Manufacturer 1=102|Manufacturer Part Number 1=169|Manufacturer Lifecycle 1=147|Supplier 1=75|Supplier Part Number 1=142|Supplier Unit Price 1=127|Supplier Subtotal 1=122
 
 [PublishSettings]
-OutputFilePath2=E:\ETML-ES\PROJ\2_PCB\2228_AlarmeFenetre_Recepteur\Project Outputs for 2228_AlarmeFenetre_Recepteur\Export\
+OutputFilePath2=C:\Users\migsantos\MIGSAN_GIT\2228_AlarmeFenetre\2228_AlarmeFenetreOuverte\hard\2228_Altium\2228_AlarmeFenetre_Recepteur\Project Outputs for 2228_AlarmeFenetre_Recepteur\Export\
 ReleaseManaged2=1
 OutputBasePath2=Project Outputs for 2228_AlarmeFenetre_Recepteur
 OutputPathMedia2=[Media Name]
@@ -542,7 +542,7 @@ OutputFileNameSpecial7=
 OpenOutput7=1
 
 [GeneratedFilesSettings]
-RelativeOutputPath2=E:\ETML-ES\PROJ\2_PCB\2228_AlarmeFenetre_Recepteur\Project Outputs for 2228_AlarmeFenetre_Recepteur\Export\
+RelativeOutputPath2=C:\Users\migsantos\MIGSAN_GIT\2228_AlarmeFenetre\2228_AlarmeFenetreOuverte\hard\2228_Altium\2228_AlarmeFenetre_Recepteur\Project Outputs for 2228_AlarmeFenetre_Recepteur\Export\
 OpenOutputs2=1
 AddToProject2=1
 TimestampFolder2=0
